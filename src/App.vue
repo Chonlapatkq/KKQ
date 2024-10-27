@@ -1,10 +1,24 @@
 <template>
+  <!--
   <nav>
     <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
+    <router-link to="/about">About</router-link>|
+    <router-link to="/Contract">Contract</router-link>
   </nav>
+  -->
+  <Menu />
   <router-view/>
 </template>
+
+<script>
+import Menu from './components/menu.vue';
+export default {
+  components:{
+    Menu
+  }
+
+}
+</script>
 
 <style>
 #app {
