@@ -12,6 +12,8 @@
           <li><a href="/Product" class="nav-link px-2 text-white">Product</a></li>
           <li><a href="/Contract" class="nav-link px-2 text-white">Contract</a></li>
           <li><a href="/about" class="nav-link px-2 text-white">About</a></li>
+          <li><a href="/AddProduct" class="nav-link px-2 text-white">Add Product</a></li>
+          <li><a href="/Grade" class="nav-link px-2 text-white">Grade</a></li>
         </ul>
 
         <form class="col-12 col-lg-auto mb-3 mb-lg-0 me-lg-3" role="search">
